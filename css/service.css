@@ -1,0 +1,298 @@
+.service {
+  margin-bottom: 82px;
+  max-width: 1920px;
+}
+
+.service__h1 {
+  font-weight: 300;
+  font-size: 36px;
+  line-height: 40px;
+  margin-bottom: 49px;
+  text-align: center;
+  padding-right: 20px;
+}
+
+.service--wrapper {
+  max-width: 1200px;
+  display: flex;
+  flex-wrap: wrap;
+  margin-right: 19.15873333%;
+  margin-left: 18.243333%;
+}
+
+
+/*+++ service__1 +++*/
+
+.service__1 {
+  height: 210px;
+  width: 398px;
+  background-image: url(../img/service__1.jpg);
+  display: flex;
+  margin-bottom: 3px;
+  margin-right: 3px;
+
+}
+
+.service__1 img {
+  padding-left: 34px;
+  padding-top: 72px;
+  width: 77px;
+  height: 76px;
+}
+
+.service__1 h2 {
+  margin-top: 77px;
+  margin-left: 18px;
+
+  font-weight: 500;
+  font-size: 26.8px;
+  line-height: 33px;
+  color: #fff;
+  text-transform: uppercase;
+}
+
+/*+++ service__2 +++*/
+
+.service__2 {
+  height: 210px;
+  width: 398px;
+  background-image: url(../img/service__2.png);
+  display: flex;
+  margin-right: 3px;
+
+}
+
+.service__2 img {
+  padding-left: 50px;
+  padding-top: 72px;
+  width: 77px;
+  height: 76px;
+}
+
+.service__2 h2 {
+  margin-top: 77px;
+  margin-left: 27px;
+
+  font-weight: 500;
+  font-size: 26.8px;
+  line-height: 33px;
+  color: #fff;
+  text-transform: uppercase;
+}
+
+/*+++ service__3 +++*/
+
+.service__3 {
+  height: 210px;
+  width: 398px;
+  background-image: url(../img/service__3.png);
+  display: flex;
+
+}
+
+.service__3 img {
+  padding-left: 88px;
+  padding-top: 75px;
+  width: 77px;
+  height: 76px;
+}
+
+.service__3 h2 {
+  margin-top: 93px;
+  margin-left: 24px;
+
+  font-weight: 500;
+  font-size: 29.8px;
+  line-height: 33px;
+  color: #fff;
+  text-transform: uppercase;
+}
+
+/*+++ service__4 +++*/
+
+.service__4 {
+  height: 210px;
+  width: 398px;
+  background-image: url(../img/service__4.png);
+  display: flex;
+  margin-right: 3px;
+  margin-bottom: 3px;
+}
+
+.service__4 img {
+  padding-left: 34px;
+  padding-top: 75px;
+  width: 77px;
+  height: 76px;
+}
+
+.service__4 h2 {
+  margin-top: 96px;
+  margin-left: 23px;
+
+  font-weight: 500;
+  font-size: 27px;
+  line-height: 33px;
+  color: #fff;
+  text-transform: uppercase;
+}
+
+/*+++ service__5 +++*/
+
+.service__5 {
+  height: 210px;
+  width: 398px;
+  background-image: url(../img/service__5.png);
+  display: flex;
+  margin-right: 3px;
+
+}
+
+.service__5 img {
+  padding-left: 32px;
+  padding-top: 73px;
+  width: 77px;
+  height: 75px;
+}
+
+.service__5 h2 {
+  margin-top: 97px;
+  margin-left: 20px;
+
+  font-weight: 500;
+  font-size: 26.7px;
+  line-height: 33px;
+  color: #fff;
+  text-transform: uppercase;
+}
+
+/*+++ service__6 +++*/
+
+.service__6 {
+  height: 210px;
+  width: 398px;
+  background-image: url(../img/service__6.png);
+  display: flex;
+
+}
+
+.service__6 img {
+  padding-left: 47px;
+  padding-top: 62px;
+  width: 74px;
+  height: 73px;
+}
+
+.service__6 h2 {
+  margin-top: 76px;
+  margin-left: 22px;
+
+  font-weight: 500;
+  font-size: 29.8px;
+  line-height: 33px;
+  color: #fff;
+  text-transform: uppercase;
+}
+
+/*+++ service__7 +++*/
+
+.service__7 {
+  height: 210px;
+  width: 398px;
+  background-image: url(../img/service__7.png);
+  display: flex;
+  margin-right: 3px;
+
+}
+
+.service__7 img {
+  padding-left: 62px;
+  padding-top: 72px;
+  width: 77px;
+  height: 76px;
+}
+
+.service__7 h2 {
+  margin-top: 77px;
+  margin-left: 22px;
+
+  font-weight: 500;
+  font-size: 27px;
+  line-height: 33px;
+  color: #fff;
+  text-transform: uppercase;
+}
+
+/*+++ service__8 +++*/
+
+.service__8 {
+  height: 210px;
+  width: 398px;
+  background-image: url(../img/service__8.png);
+  display: flex;
+  margin-right: 3px;
+
+}
+
+.service__8 img {
+  padding-left: 44px;
+  padding-top: 78px;
+  width: 76px;
+  height: 75px;
+}
+
+.service__8 h2 {
+  margin-top: 93px;
+  margin-left: 21px;
+
+  font-weight: 500;
+  font-size: 26.7px;
+  line-height: 33px;
+  color: #fff;
+  text-transform: uppercase;
+}
+
+/*+++ service__9 +++*/
+
+.service__9 {
+  height: 210px;
+  width: 398px;
+  background-image: url(../img/service__9.png);
+  display: flex;
+
+}
+
+.service__9 img {
+  padding-left: 41px;
+  padding-top: 46px;
+  width: 76px;
+  height: 75px;
+
+}
+
+.service__9 h2 {
+  margin-top: 45px;
+  margin-left: 20px;
+
+  font-weight: 500;
+  font-size: 29.9px;
+  line-height: 33px;
+  color: #fff;
+  text-transform: uppercase;
+}
+
+.service__9 span {
+  font-weight: 300;
+  font-size: 30.7px;
+  line-height: 35px;
+  text-transform: none;;;
+}
+
+/*============ end omg =============*/
+
+
+
+
+
+
+

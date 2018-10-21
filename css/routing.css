@@ -1,0 +1,163 @@
+.routers {
+    background-image: url(../img/routers.jpg);
+    margin: 0;
+    padding: 0;
+    min-height: 568px;
+    margin-bottom: 58px;
+    max-width: 1920px;
+}
+
+.routers__h2 {
+    text-align: center;
+    padding-top: 78px;
+    padding-bottom: 55px;
+
+    color: #fff;
+    font-weight: 100;
+    font-size: 49px;
+    padding-right: 1px;
+}
+
+.routers__wrapper {
+    max-width: 1201px;
+    display: grid;
+    /*grid-template-columns: 223px 223px 223px 223px 223px;*/
+    /*grid-template-columns: 1fr 1fr 1fr 1fr 1fr;*/
+    grid-template-rows: 78px 78px 78px; /*19-21*/
+    grid-template-columns: repeat(auto-fill, 223px);
+    justify-content: center;
+    grid-gap: 20px 21px;
+    margin-left: 18.243333%;
+    margin-right: 19.15873333%;
+    /* grid-template-columns: repeat(5, 233px); */
+}
+
+.routers__items {
+   
+
+    /*width: 223px;
+    height: 78px;*/
+    background: #fff;
+}
+
+/*+++ Rus +++*/
+
+.routers__items img {
+    padding-top: 24px;
+    padding-left: 26px;
+    float: left;
+    margin-right: 32px;
+}
+
+.routers__items p {
+    font-weight: 300;
+    font-size: 12px;
+    padding-top: 19px;
+    line-height: 22.2px;
+}
+
+.routers__items span {
+    font-weight: 500;
+    font-size: 18px;
+    margin-top: 2px;
+}
+
+/*+++ другие флаги +++*/
+
+.routers__items1 {
+    background: #fff;
+}
+
+.routers__items1 img {
+    padding-top: 24px;
+    padding-left: 28px;
+    float: left;
+    margin-right: 31px;
+}
+
+.routers__items1 p {
+    font-weight: 300;
+    font-size: 12px;
+    padding-top: 13px;
+    line-height: 16px;
+}
+
+.routers__items1 span {
+    font-weight: 500;
+    font-size: 18px;
+    padding-top: 0px;
+    line-height: 28px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

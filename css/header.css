@@ -1,0 +1,256 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    width: 1920px;
+}
+
+a {
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2, h3 {
+    margin: 0;
+    padding: 0;
+}
+
+/*================== HEADER ==================*/
+
+.main-header {
+    max-width: 1920px;
+}
+
+.main-header__wrapper {
+    display: flex;
+    max-width: 1200px;
+    margin-bottom: 10px;
+    padding-top: 11px;
+    margin-right: 19.15873333%;
+    margin-left: 18.343333%;
+}
+
+/*+++ logo +++*/
+
+.main-header__logo {
+    margin-right: 67px;
+    margin-left: -1px;
+}
+
+/*+++ Contacts +++*/
+
+.main-header__contacts {
+    margin-right: 53px;
+}
+
+.main-header__contacts--tel {
+    text-decoration: none;
+    display: block;
+    padding-top: 16px;
+    padding-left: 23px;
+    padding-bottom: 10px;
+
+    font-family: sans-serif;
+    color: #000000;
+    font-size: 24px;
+    line-height: 24px;
+    position: relative;
+}
+
+.main-header__contacts--tel-bold {
+    font-weight: 900;
+    margin-left: -1px;
+}
+
+.main-header__contacts--tel::before {
+    width: 13px;
+    height: 20px;
+    background-image: url(../img/icon.png);
+    content: "";
+    position: absolute;
+    top: 16px;
+    left: 0px;
+}
+
+.main-header__contacts--email {
+    position: relative;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 24px;
+
+    text-decoration: none;
+    color: #000000;
+    padding-left: 25px;;
+
+
+}
+
+.main-header__contacts--email::before {
+    content: "";
+    position: absolute;
+    width: 16px;
+    height: 10px;
+    background-image: url(../img/icon1.png);
+    top: 5px;
+    left: 0px;
+}
+
+/*+++ Adress +++*/
+
+.main-header__adress {
+    margin-right: 23px;
+}
+
+.adress--title {
+    position: relative;
+    padding-top: 12px;
+
+    font-size: 18px;
+    line-height: 29px;
+}
+
+.adress--title::before {
+    width: 17px;
+    height: 22px;
+    background-image: url(../img/icon2.png);
+    content: "";
+    position: absolute;
+    top: 19px;
+    left: -27px;
+}
+
+/*+++ feetback_untraceable +++*/
+
+.feetback_untraceable {
+    padding-top: 3px;
+    margin-right: 17px;
+
+}
+
+.feetback {
+    width: 188px;
+    height: 36px;
+    margin-bottom: 7px;
+    background-color: #595d59;
+    text-align: center;
+
+    font-size: 15px;
+    line-height: 36px;
+    color: #fff;
+}
+
+.untraceable {
+    width: 188px;
+    height: 36px;
+    background-color: #595d59;
+    text-align: center;
+
+    font-size: 15px;
+    line-height: 36px;
+    color: #fff;
+}
+
+/*+++ Calc +++*/
+
+.calc {
+    max-width: 270px;
+    background-color: #ffe452;
+}
+
+.calc__img {
+    float: left;
+    margin-top: 12px;
+    margin-left: 16px;
+    margin-right: 15px;
+}
+
+.calc__title {
+    font-size: 14px;
+    line-height: 18px;
+    word-spacing: 2px;
+    padding-top: 16px;
+}
+
+/*================== Navigation ==================*/
+
+.navigation {
+    max-width: 1920px;
+    height: 61px;
+    background-color: #e6eaed;
+}
+
+.navigation-wrapper {
+    max-width: 1200px;
+    margin-right: 19.15873333%;
+    margin-left: 18.343333%;
+}
+
+.navigation-wrapper img {
+    height: 20px;
+    width: 25px;
+    float: left;
+    margin-top: 21px;
+    margin-right: 25px
+}
+
+.navigation__title {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+
+
+    
+    display: flex;
+
+/*    justify-content: space-between;
+*/    height: 61px;
+}
+
+.navigation__title li {
+    display: flex;
+    padding-top: 25px;
+
+    font-weight: 500;
+    font-size: 13px;
+    text-transform: uppercase;
+}
+
+/*+++ центровка навигации +++*/
+
+.navigation__title--center1 {
+    margin-right: 22px;
+}
+
+.navigation__title--center2,
+.navigation__title--center3 {
+    margin-right: 23px;
+}
+
+.navigation__title--center4,
+.navigation__title--center6,
+.navigation__title--center7 {
+    margin-right: 19px;
+}
+
+.navigation__title--center5 {
+    margin-right: 20px;
+}
+
+.navigation__title--center8 {
+    margin-right: 18px;
+}
+
+.navigation__title--center9 {
+    padding-left: 2px;
+}
+
+
+
+
+
